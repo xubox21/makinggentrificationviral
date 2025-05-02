@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "xubox21",
+    "is_private": false,
+    "title": "MAKING GENTRIFICATION VIRAL",
+    "description": "An audio file narration leads you through a proposal to redefine gentrification as a form of modern discourse- or, 'making gentrification viral'. ",
+    "language": "en",
+    "slug": "makinggentrificationviral",
+    "creator": "xubox21",
+    "authors": "Sarah X.",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-05-02T01:46:51.974Z",
+    "updated_at": "2025-05-02T01:46:51.974Z"
   }
 }
