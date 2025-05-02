@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "14e72ab4-d3e7-4dd1-8d22-aa4cae5c5b3d": {
+      "label": "making_gentrification_viral_mp3",
+      "is_offline": false,
+      "file_url": "https://ia600704.us.archive.org/27/items/making-gentrification-viral/MAKING%20GENTRIFICATION%20VIRAL.mp3",
+      "duration": 456,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "MAKING GENTRIFICATION VIRAL",
+  "created_at": "2025-05-02T01:48:08.377Z",
+  "created_by": "xubox21",
+  "updated_at": "2025-05-02T01:48:08.377Z",
+  "updated_by": "xubox21"
+}
