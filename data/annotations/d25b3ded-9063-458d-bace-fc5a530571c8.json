@@ -1,5 +1,437 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bach's Toccata and Fugue, often associated with horror, depicts an impending doom- one that accompanies the start of urban renewal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Music"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Modality"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "612e2efb-942b-4b85-bf1e-0c33fb408e64"
+    },
+    {
+      "start_time": 6,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Walt Whitman adopts the satirical perspective of a reformer, using evocative language to lament the changes in Brooklyn due to a steady and rapid gentrification. The modern reformer '[raises] the devil' and 'breaks things'. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Sound Effect"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Social Class"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Displacement"
+        }
+      ],
+      "uuid": "441539d4-a30a-4100-a5ad-c08ba53bfa82"
+    },
+    {
+      "start_time": 32,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here, the definition of the term 'gentrification'. While the term has gained generic popularity in modern times, using Whitman's quote, we can assume that urban renewal worked independently wherever there was a city."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Informative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Year"
+        }
+      ],
+      "uuid": "c77f4099-9e7d-42e8-958b-485c3bb0d462"
+    },
+    {
+      "start_time": 51,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here, the definition of the term 'rhetoric'. We introduce the idea with several of the class' discussion post ideas from the beginning of the year, in response the question \"what is rhetoric?\". In this case, we hadn't learned the academic definitions yet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Informative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Communicator"
+        }
+      ],
+      "uuid": "0c83a515-7101-4f67-ab35-bded2545a070"
+    },
+    {
+      "start_time": 70,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jodie Nicotra provides the academic definition of 'rhetoric'. In many ways, rhetoric acts in a set of modes- here, one audio, one writing. This annotation is a mode- this audio is another."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Informative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sound Effect"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Modality"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Medium"
+        }
+      ],
+      "uuid": "44407ffd-599a-444b-9c5c-2cf239b58347"
+    },
+    {
+      "start_time": 95,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are various modes and biases associated with rhetoric- all contained within one person, with a baseline that extends and bounces around cultural, societal, and personal biases. Altogether, it can change the way we see things- our world is our basis for understanding."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Exigence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Message"
+        }
+      ],
+      "uuid": "9c7231c5-82bb-4bd0-8249-c74e365f9db0"
+    },
+    {
+      "start_time": 111,
+      "end_time": 166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rhetoric surrounding gentrification has becomes outdated- referencing Eliot Tretter's article, we have approached our understanding of rhetoric in the same way for decades. Why shouldn't there be a resurgence?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Academic Article"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Informative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Persuasive"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stakeholders"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Exigence"
+        }
+      ],
+      "uuid": "c989eb13-1a15-45db-99b7-133a60dfef73"
+    },
+    {
+      "start_time": 166,
+      "end_time": 191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gentrification is a long-standing topic of debate, and, as proven in Whitman's writing, one that exists to persist. How can we change something which has continued to persist throughout time, and which acts not only as an antagonist but a catalyst for modern change?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Exigence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Argumentative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stakeholders"
+        }
+      ],
+      "uuid": "b727a21a-eaed-49f3-a2c4-28ae5fea9d17"
+    },
+    {
+      "start_time": 191,
+      "end_time": 209,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We introduce a proposal- making gentrification viral. With virality, discourse becomes key, and change is imminent."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Purpose"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "4a747d84-598e-4bd8-bf03-74cef645b4b4"
+    },
+    {
+      "start_time": 209,
+      "end_time": 222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Martin Luther King Jr.'s quote arises from a sermon he made at Columbia University, which presses that change requires action in order to occur. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Sound Effect"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Persuasive"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Exigence"
+        }
+      ],
+      "uuid": "6cbf80b1-b1f9-4542-b094-1554dc7291f9"
+    },
+    {
+      "start_time": 222,
+      "end_time": 262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We investigate a past case in media viralty- the BLM movement in 2020 following the murder of George Floyd. In this case, virality caused a negative effect, blooming into an online argumentative discourse over principal and shifting attention away from the real exigence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Year"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Data"
+        }
+      ],
+      "uuid": "88e1515d-d265-484b-8951-785cf2c48f13"
+    },
+    {
+      "start_time": 262,
+      "end_time": 352,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are several downsides to organised virality- and many past examples of attempts at virality that didn't work out. Unorganised virality, however, can have it's own downsides. In this case, we aim to find the true benefit of virality."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Argumentative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Purpose"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "News Media"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        }
+      ],
+      "uuid": "1c51cdeb-cd90-4cdb-8e57-80a8e366cf0a"
+    },
+    {
+      "start_time": 352,
+      "end_time": 402,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Virality is good for one thing- making people pay attention. Through attention, discourse is inevitable- meaning that if we approach revitalizing gentrification rhetoric with care, there is potential to increase discourse. Here, we approach these concerns with a proposal with outlined rules to minimise unintentional pain."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Persuasive"
+        }
+      ],
+      "uuid": "684b2ae5-c5c3-477d-9c01-ea6a8286db2b"
+    },
+    {
+      "start_time": 402,
+      "end_time": 433,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We end on closing statements. With our generation of youth, we have the potential to create real change. And, even more so, through methods only our generation are fully familiar with."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Persuasive"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "ff76da46-1745-4cbe-afcf-73384e22bb78"
+    },
+    {
+      "start_time": 433,
+      "end_time": 456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Final closing statements. Special thanks to Trent, the DWRL, my classmates of Rhetoric and Writing 306, and Freesound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "c1a4ff02-0d89-44e5-9293-735c52dc354f"
+    }
+  ],
   "set": "Default",
   "event_id": "bb8782f5-9779-4938-bf3b-d6f82d5328a2",
   "source_id": "6273611a-b28b-4c81-9c2c-326627ee2227"
